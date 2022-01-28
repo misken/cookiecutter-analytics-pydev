@@ -2,6 +2,6 @@
 Installation
 ============
 
-At the command line::
+At the command line from the {{ cookiecutter.project_name }} directory:
 
-    $ pip install {{ cookiecutter.package_dist_name }}
+    $ pip install -e .
